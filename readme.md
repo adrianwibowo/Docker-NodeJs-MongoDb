@@ -1,0 +1,4 @@
+- `npm -v` make sure npm installed
+- `npx express-generator` to get express boiler plate
+- `npm install` to install the dependencies
+- add `.gitignore` file and write `/node_modules` to exclude node_modules uploaded to repositories
